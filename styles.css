@@ -25,5 +25,5 @@ body {
 }
 
 .bleed {
-    background-image: "https://freight.cargo.site/w/900/q/75/i/9d4df106b54f3a5ee903faacb38e173b63ab555853cc5dea7d2181f93808cbe0/IMG_5244.jpg";
+    background-image: url("https://freight.cargo.site/w/900/q/75/i/9d4df106b54f3a5ee903faacb38e173b63ab555853cc5dea7d2181f93808cbe0/IMG_5244.jpg")lli;
 }
