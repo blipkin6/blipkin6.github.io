@@ -35,6 +35,15 @@ body {
 scale: 50%;
 }
 
+.broad {
+    margin: 0;
+  min-height: 100vh;
+  background-image: url("https://freight.cargo.site/w/2000/q/75/i/ae1ba28575654dc6046454fd3f5d6fa04c5dd94f382627f0bbed032de49b89cc/L1010285.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
 .new {
     margin: 0;
   min-height: 100vh;
