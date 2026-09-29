@@ -31,6 +31,12 @@ body {
    
 }
 
+.para {
+   font-size: 1.25rem;
+   padding: 1%;
+   
+}
+
 .inset{
 scale: 50%;
 }
@@ -101,3 +107,4 @@ scale: 50%;
   background-attachment: fixed;
 
 }
+
